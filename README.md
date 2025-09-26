@@ -23,7 +23,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-neves-oliveira/)  
 📧 [E-mail](nevesgno@gmail.com)
 
----
-<div>
-  ![Snake animation](https://github.com/nevesgno/nevesgno/blob/output/github-contribuition-grid-snake.svg)
-</div>
+
