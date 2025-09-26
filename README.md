@@ -20,6 +20,6 @@
 ---
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)  
-📧 [E-mail](mailto:SEUEMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-neves-oliveira/)  
+📧 [E-mail](nevesgno@gmail.com)
 
