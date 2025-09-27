@@ -48,11 +48,18 @@ Aspiring to start my career in the technology field with a focus on **web develo
 
 ---
 
-## 📜 Certifications
-- ✅ Google IT Support Professional Certificate  
-- 🎯 Future: AWS Cloud Practitioner  
-- 🎯 Future: Azure Fundamentals  
-- 🎯 Future: Scrum Foundation  
+## 📜 Certificações e Cursos (em andamento)  
+
+- **Google IT Support Professional Certificate** – Coursera/Google (conclusão prevista 2025)  
+- **Introdução ao Desenvolvimento Web** – Faculdade Descomplica  
+- **Lógica de Programação: começando a desenvolver seus primeiros programas** – IFRS (20h)  
+- **Programador Web** – IFRS (200h)  
+- **OCI Foundations** – Oracle  
+- **OCI AI Foundations** – Oracle  
+- **Oracle Data Platform Foundations** – Oracle  
+
+---
+
 
 ---
 
