@@ -58,9 +58,6 @@ Aspiring technology professional currently studying ADS, with a focus **on web d
 
 ---
 
-
----
-
 ## 🌎 Languages
 - 🇧🇷 Portuguese (native)  
 - 🇺🇸 English (technical reading & writing)  
