@@ -13,7 +13,7 @@
 ---
 
 ## 🎯 Professional Objective
-Aspiring to start my career in the technology field with a focus on **web development, support, and systems administration**, aiming to grow as a developer while contributing to innovative projects and open-source communities.  
+Aspiring technology professional currently studying ADS, with a focus **on web development, IT support, and systems administration**. My goal is to grow as a developer while contributing to innovative projects and actively engaging in open-source communities.
 
 ---
 
