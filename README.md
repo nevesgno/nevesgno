@@ -48,7 +48,7 @@ Aspiring technology professional currently studying ADS, with a focus **on web d
 
 ## 📜 Certificações e Cursos (em andamento)  
 
-- **Introdução ao Desenvolvimento Web** – Faculdade Descomplica (10h)
+- **Introdução ao Desenvolvimento Web** – Faculdade Descomplica (10h-Concluído)
 - **Google IT Support Professional Certificate** – Coursera/Google (em andamento)  
 - **Lógica de Programação: começando a desenvolver seus primeiros programas** – IFRS (em andamento)  
 - **Programador Web** – IFRS (em andamento) 
