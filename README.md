@@ -48,13 +48,13 @@ Aspiring technology professional currently studying ADS, with a focus **on web d
 
 ## 📜 Certificações e Cursos (em andamento)  
 
-- **Google IT Support Professional Certificate** – Coursera/Google (conclusão prevista 2025)  
-- **Introdução ao Desenvolvimento Web** – Faculdade Descomplica  
-- **Lógica de Programação: começando a desenvolver seus primeiros programas** – IFRS (20h)  
-- **Programador Web** – IFRS (200h)  
-- **OCI Foundations** – Oracle  
-- **OCI AI Foundations** – Oracle  
-- **Oracle Data Platform Foundations** – Oracle  
+- **Introdução ao Desenvolvimento Web** – Faculdade Descomplica (10h)
+- **Google IT Support Professional Certificate** – Coursera/Google (em andamento)  
+- **Lógica de Programação: começando a desenvolver seus primeiros programas** – IFRS (em andamento)  
+- **Programador Web** – IFRS (em andamento) 
+- **OCI Foundations** – Oracle  (em andamento) 
+- **OCI AI Foundations** – Oracle  (em andamento) 
+- **Oracle Data Platform Foundations** – Oracle  (em andamento) 
 
 ---
 
