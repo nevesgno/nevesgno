@@ -1,8 +1,3 @@
-<h1>
-    <img align="center" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-    <span> Bootcamp AVANADE DIO 2025 </span>
-</h1>
-
 # 👩‍💻 Hi, I'm Gabriela Neves! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 🎓 Studying ADS | Faculdade Descomplica <br>
