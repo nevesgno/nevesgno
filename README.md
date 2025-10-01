@@ -37,7 +37,6 @@ Aspiring technology professional currently studying ADS, with a focus **on web d
 ## 🛠️ Support & Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=00AFFF)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FF69B4)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ---
 
