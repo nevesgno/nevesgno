@@ -8,12 +8,9 @@
 ---
 
 ## 🎯 Professional Objective
-
 I'm studying ADS in transition to Software Engineering, focusing on web development, programming logic, and systems fundamentals.
 I'm currently studying HTML, CSS, and JavaScript, consolidating my knowledge of data structures, algorithms, and databases.
 I strive to contribute to challenging projects, evolving technically and expanding my technological vision.
----
-
 
 ---
 
