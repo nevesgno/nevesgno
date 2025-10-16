@@ -18,9 +18,10 @@ Busco um ambiente que valorize a **resolução de problemas** e o desenvolviment
 
 | Projeto | Tecnologias | Foco | Link |
 | :--- | :--- | :--- | :--- |
-| **Sistema de Controle de Gastos** | JavaScript (ES6+), HTML, CSS | Aplicação de **Lógica de Programação** para gerenciamento de dados, uso de Arrays e persistência local (simulação de *backend*). | [Link](https://github.com/nevesgno/Sistema-de-controle-de-gastos-pessoais) |
+| **Calculadora de IMC** | HTML, CSS, JavaScript | Manipulação do DOM, **validação de inputs do usuário** e resolução de problemas básicos, com design simples e funcional. | [Link](https://github.com/nevesgno/Calculadora-de-IMC) |
 | **Calendário Menstrual** | HTML, CSS, JavaScript | Foco em **UX/UI** e **Responsividade** para dados sensíveis, garantindo usabilidade em dispositivos móveis. | [Link](https://github.com/nevesgno/Calendario-Menstrual) |
-| **Calculadora de IMC** | JavaScript, HTML, CSS | Resolução de problemas básicos, **validação de *input* do usuário** e manipulação eficiente do DOM. | [Link](https://github.com/nevesgno/Calculadora-de-IMC) |
+| **Sistema de Controle de Gastos** *(em andamento)* | JavaScript (ES6+), HTML, CSS | Em desenvolvimento: foco em **Lógica de Programação** e manipulação de Arrays para controle financeiro. | [Link](https://github.com/nevesgno/Sistema-de-controle-de-gastos-pessoais) |
+
 
 ---
 
